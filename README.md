@@ -6,7 +6,12 @@
 
 **โปรแกรมจัดการ SSH / terminal บนเดสก์ท็อป พร้อม AI agent ในตัว — ทำงาน offline, ข้อมูลอยู่ในเครื่องล้วน**
 
-Windows · macOS · Linux
+[![Release](https://img.shields.io/github/v/release/pepcompat/perms-desktop?label=version&color=2496ED)](https://github.com/pepcompat/perms-desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/pepcompat/perms-desktop/total?label=downloads&color=success)](https://github.com/pepcompat/perms-desktop/releases)
+[![Release date](https://img.shields.io/github/release-date/pepcompat/perms-desktop?label=updated)](https://github.com/pepcompat/perms-desktop/releases/latest)
+![Platforms](https://img.shields.io/badge/os-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+[![Tests](https://img.shields.io/github/actions/workflow/status/pepcompat/perms/ci.yml?branch=main&label=tests&logo=github)](https://github.com/pepcompat/perms/actions/workflows/ci.yml)
+[![Source](https://img.shields.io/badge/source-open%20source-6f42c1?logo=github)](https://github.com/pepcompat/perms)
 
 ### [⬇️ ดาวน์โหลดเวอร์ชันล่าสุด](https://github.com/pepcompat/perms-desktop/releases/latest)
 
